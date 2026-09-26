@@ -49,4 +49,9 @@ Working of Temperature Sensor:
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/82390dba-8401-497e-825d-359ce62a5be4" />
 
+Final Prototype:
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-26 at 11 49 31 PM" src="https://github.com/user-attachments/assets/ebe97c89-e4af-462e-842f-1e581b01b129" />
+
+
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/f109ffa7-bb4c-44d2-aa44-89c269afe32d" />
+Final Prototype 
