@@ -6,6 +6,10 @@ A low cost and lightweight smart milk chilling can designed to help small scale 
 
 This project uses temperature sensors to continuously monitor the temperature of milk inside the chilling can. The sensor data can be processed by a microcontroller and used to monitor cooling performance.
 
+
+<img width="1448" height="1086" alt="WhatsApp Image 2026-09-16 at 8 38 20 AM" src="https://github.com/user-attachments/assets/05370d2c-31e0-448d-8167-46489d2dae6d" />
+
+
 ## Key Features
 
 • Real time milk temperature monitoring
@@ -42,13 +46,16 @@ The system can be further improved by adding Internet connectivity, mobile appli
 
 Prototype Working Image :
 
+
 <img width="1600" height="900" alt="WhatsApp Image 2026-09-16 at 10 41 30 PM" src="https://github.com/user-attachments/assets/0cd90499-335a-4b3b-8753-2c15ca8e58ce" />
 
 Working of Temperature Sensor:
+
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/82390dba-8401-497e-825d-359ce62a5be4" />
 
 
 Final Prototype :
+
 
 <img width="1200" height="1600" alt="WhatsApp Image 2026-09-26 at 11 49 31 PM" src="https://github.com/user-attachments/assets/2ee09294-caea-4d9b-bd7b-2bc8f9aaa218" />
